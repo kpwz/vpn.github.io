@@ -5,8 +5,8 @@
 在这篇文章中，我们将为您推荐几款适合华人留学生、海外工作者以及旅居人士使用的VPN工具。这些工具经过严格筛选，不仅**速度快、稳定性强**，还能够满足不同场景下的需求。无论是观看高清视频、使用国内社交平台，还是进行远程工作，都能为您提供极大的便利。  
 <br/>
 ## 回国VPN列表概览
-> + [穿梭](https://www.baidu.com/)
-> + [Malus](https://www.baidu.com/)
+> + [穿梭](https://www.transocks.com/payment?affiliate-code=d4lmldd)
+> + [Malus](https://getmalus.com/buy?affid=A323437573F)
 > + [QuickFox](https://www.baidu.com/)
 <br/>
 
