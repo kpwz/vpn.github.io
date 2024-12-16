@@ -21,7 +21,8 @@
 | 智能加速  |
 | 单独选线路  |
 | 免费试用  |
-<center>特惠购买</center>
+
+# [特惠购买](https://www.transocks.com/payment?affiliate-code=d4lmldd)
 
 
 ## Malus - 体验友好回国VPN
