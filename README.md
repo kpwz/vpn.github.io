@@ -22,15 +22,24 @@
 | 单独选线路  |
 | 免费试用  |
 
-# [特惠购买](https://www.transocks.com/payment?affiliate-code=d4lmldd)
+# [穿梭VPN特惠购买](https://www.transocks.com/payment?affiliate-code=d4lmldd)
 
 
-## Malus - 体验友好回国VPN
-1. 用户体验优秀
-2. 稳定运作多年
-3. 全平台客户端覆盖
-4. 现代化界面
-5. 支持支付宝购买
+## Malus - 起步价格9.9元/月，[新用户试用1天](https://getmalus.com/buy?affid=A323437573F)
+Malus VPN是一款专为全球用户打造的高性能虚拟专用网络，致力于提供卓越的隐私保护和网络加速体验。无论你身在何处，Malus VPN都能为你提供稳定、安全的连接，突破地理限制，访问全球任何地区的内容。
+<br/>
+通过使用先进的加密协议和隐私保护技术，Malus VPN不仅确保你的网络活动得到全面保护，还能有效规避网络监控与数据泄露风险。得益于其优化的服务器架构和智能路由系统，Malus VPN能够为用户提供极致的上网速度和流畅的体验，无论是观看高清流媒体、进行在线游戏，还是使用国内外的各种应用服务，都能轻松应对。
+<br/>
+此外，Malus VPN支持多平台使用，兼容Windows、Mac、iOS、Android等设备，确保你在所有设备上都能享受高速、安全的上网体验。无论你是在家中办公，还是在外旅行，Malus VPN都是你值得信赖的网络伴侣。
+| 优势  | 劣势  |
+|:---|---:|
+| 全局模式  | 不支持退款  | 
+| 智能线路  |
+| 智能加速  |
+| 单独选线路  |
+| 免费试用  |
+
+# [Malus特惠购买](https://getmalus.com/buy?affid=A323437573F)
 
 
 ## QuickFox - 最佳回国游戏VPN
